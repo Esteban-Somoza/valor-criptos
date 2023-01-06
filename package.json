@@ -1,0 +1,17 @@
+{
+  "name": "valor-criptos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coingecko-api": "^1.0.10",
+    "coingecko-api-v3": "^0.0.15",
+    "vice": "^0.0.3"
+  }
+}
